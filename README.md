@@ -103,6 +103,13 @@ Allows modification of commit messages during interactive rebase.
 <img width="743" height="209" alt="Screenshot 2026-04-13 131535" src="https://github.com/user-attachments/assets/d7808a25-be8c-42f1-8532-6d6fe3af6c0a" />
 <img width="953" height="505" alt="Screenshot 2026-04-13 124925" src="https://github.com/user-attachments/assets/db914c11-eb04-460a-8540-48a388acb5be" />
 
+## 📸 Screenshots
+
+![Screenshot](https://github.com/user-attachments/assets/ca6906f9-7c36-42ca-909e-2f6aed959447)
+
+![Screenshot](https://github.com/user-attachments/assets/7a584eec-bea3-4c11-b4b7-215cbe946c74)
+
+![Screenshot](https://github.com/user-attachments/assets/3cb22f6e-ca9c-4a50-94c5-9f3621f4a757)
 
 ---
 

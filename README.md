@@ -94,7 +94,7 @@ Allows modification of commit messages during interactive rebase.
 
 ## 📸 Screenshots
 
-![Project Screenshot 1](<screenshot/Screenshot 2026-04-13 134153.png>)
+![Project Screenshot 1](<screenshot/1st.png>)
 
 ![Project Screenshot 2](<screenshot/Screenshot 2026-04-13 131535.png>)
 

@@ -90,27 +90,19 @@ Allows modification of commit messages during interactive rebase.
 
 ---
 
-## 📸 Screenshots
-> Add your screenshots here:
-<img width="960" height="509" alt="Screenshot 2026-04-12 154219" src="https://github.com/user-attachments/assets/ca6906f9-7c36-42ca-909e-2f6aed959447" />
-<img width="597" height="174" alt="Screenshot 2026-04-13 134153" src="https://github.com/user-attachments/assets/7a584eec-bea3-4c11-b4b7-215cbe946c74" />
-<img width="694" height="417" alt="Screenshot 2026-04-12 160514" src="https://github.com/user-attachments/assets/3cb22f6e-ca9c-4a50-94c5-9f3621f4a757" />
-<img width="929" height="490" alt="Screenshot 2026-04-12 154658" src="https://github.com/user-attachments/assets/b933e465-ef50-43a2-8c26-0355148f57c3" />
-<img width="626" height="407" alt="Screenshot 2026-04-12 155428" src="https://github.com/user-attachments/assets/bc401233-1cec-46ff-9301-2b2ab2840f39" />
-<img width="638" height="214" alt="Screenshot 2026-04-12 155527" src="https://github.com/user-attachments/assets/c35b4393-de75-4966-839a-5498a8827308" />
-<img width="946" height="487" alt="Screenshot 2026-04-13 130014" src="https://github.com/user-attachments/assets/78468e9d-a774-4706-a0b8-98758a8b98e3" />
-<img width="960" height="506" alt="Screenshot 2026-04-13 131144" src="https://github.com/user-attachments/assets/73a091df-a158-4baf-a11f-178b2fdb5b24" />
-<img width="743" height="209" alt="Screenshot 2026-04-13 131535" src="https://github.com/user-attachments/assets/d7808a25-be8c-42f1-8532-6d6fe3af6c0a" />
-<img width="953" height="505" alt="Screenshot 2026-04-13 124925" src="https://github.com/user-attachments/assets/db914c11-eb04-460a-8540-48a388acb5be" />
+
 
 ## 📸 Screenshots
 
-![Screenshot](https://github.com/user-attachments/assets/ca6906f9-7c36-42ca-909e-2f6aed959447)
+![Project Screenshot 1](<screenshot/Screenshot 2026-04-13 134153.png>)
 
-![Screenshot](https://github.com/user-attachments/assets/7a584eec-bea3-4c11-b4b7-215cbe946c74)
+![Project Screenshot 2](<screenshot/Screenshot 2026-04-13 131535.png>)
 
-![Screenshot](https://github.com/user-attachments/assets/3cb22f6e-ca9c-4a50-94c5-9f3621f4a757)
+![Project Screenshot 3](<screenshot/Screenshot 2026-04-13 131144.png>)
 
+![Project Screenshot 4](<screenshot/Screenshot 2026-04-13 130014.png>)
+
+![Project Screenshot 5](<screenshot/Screenshot 2026-04-13 124925.png>)
 ---
 
 ## 🧠 Learning Outcomes

@@ -90,6 +90,12 @@ Allows modification of commit messages during interactive rebase.
 
 ---
 
+## 📸 Screenshots
+> Add your screenshots here:
+
+
+---
+
 ## 🧠 Learning Outcomes
 - Understanding Git branching workflow
 - Practical experience with merge and rebase strategies
